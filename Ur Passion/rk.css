@@ -1,0 +1,22 @@
+.navbar-inner
+{
+    background-color: transparent;
+}
+#brand
+{
+    padding-left: 50px;
+    color: rgb(255,255,255,0.80);
+}
+#home
+{
+    padding-left: 0px;
+    color: rgb(255,255,255,0.80);
+}
+.navbar-nav
+{
+size:100px;
+}
+.H1
+{
+    size: 00px;
+}
